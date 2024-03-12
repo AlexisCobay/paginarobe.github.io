@@ -1,0 +1,89 @@
+.caja-1{
+height: 100;
+width: 500;
+position: absolute;
+font-family:"Cooper Black";
+font-size: 35px;
+top: 00px;
+left: 00px;
+}
+.caja-2{
+height: 100;
+width: 450;
+position: absolute;
+font-family:"Bradley Hand ITC";
+font-size: 25px;
+top: 100px;
+left: 10px;
+}
+.caja-3{
+height: 100;
+width: 800;
+position: absolute;
+font-family:"Cooper Black";
+font-size: 35px;
+top: 00px;
+left: 885px;
+}
+.caja-4{
+height: 100;
+width: 480;
+position: absolute;
+font-family:"Bradley Hand ITC";
+font-size: 25px;
+top: 100px;
+left: 885px;
+}
+.caja-5{
+height: 100;
+width: 10;
+position: absolute;
+font-family:"Cooper Black";
+font-size: 35px;
+top: 720px;
+left: 10px;
+}
+.caja-6{
+height: 200;
+width: 800;
+position: absolute;
+font-family:"Bradley Hand ITC";
+font-size: 25px;
+top: 820px;
+left: 10px;
+}
+.caja-7{
+height: 100;
+width: 425;
+position: absolute;
+font-family:"Cooper Black";
+font-size: 35px;
+top: 150px;
+left: 455px;
+}
+.caja-8{
+height: 100;
+width: 800;
+position: absolute;
+font-family:"Bradley Hand ITC";
+font-size: 25px;
+top: 700px;
+left: 825px;
+}
+ .bt-menu{
+ position: absolute;
+ top: 10;
+ left: 470;
+ font-size: 18px;
+ font-family:"Lucida Calligraphy";
+ border-radius: 10px;
+ background-color: lightsteelblue;
+ color: white;
+ padding: 20px 40px;
+ text-align: center;
+ margin: 4px 2px;
+ transition-duration: 0.5s;
+ }
+ .bt-menu:hover{
+ background-color: skyblue;
+ }
